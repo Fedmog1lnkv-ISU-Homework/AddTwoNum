@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">AddTwoNum</string>
-    <string name="_1_summand">1 summand</string>
-    <string name="_2_summand">2 summand</string>
+    <string name="first_summand">1 summand</string>
+    <string name="second_summand">2 summand</string>
     <string name="sum">Sum</string>
     <string name="header">Enter the numbers to add up:</string>
 </resources>

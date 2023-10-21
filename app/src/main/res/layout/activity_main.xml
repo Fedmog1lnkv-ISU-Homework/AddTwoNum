@@ -18,7 +18,7 @@
         android:id="@+id/numA"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="@string/_1_summand"
+        android:hint="@string/first_summand"
         android:inputType="numberDecimal"
         android:textSize="20sp" />
 
@@ -26,7 +26,7 @@
         android:id="@+id/numB"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="@string/_2_summand"
+        android:hint="@string/second_summand"
         android:inputType="numberDecimal"
         android:textSize="20sp" />
 
